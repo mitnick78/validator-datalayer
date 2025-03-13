@@ -1,0 +1,28 @@
+{
+  "name": "validator-datalayer",
+  "version": "1.0.0",
+  "description": "validator datalayer",
+  "keywords": [
+    "validator",
+    "datalayer"
+  ],
+  "homepage": "https://github.com/mitnick78/validator-datalayer#readme",
+  "bugs": {
+    "url": "https://github.com/mitnick78/validator-datalayer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitnick78/validator-datalayer.git"
+  },
+  "license": "ISC",
+  "author": "christophe milliere",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "commander": "^13.1.0"
+  }
+}
